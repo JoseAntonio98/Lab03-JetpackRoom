@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Lab03-JetpackRoom</string>
+    <string name="title_activity_navigation_host_app">NavigationHostApp</string>
+</resources>
